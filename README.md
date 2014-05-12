@@ -1,0 +1,1 @@
+Git Submodule with base SCSS files for all my projects
